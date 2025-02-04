@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # DESCRIPTION OF VARIABLES
-## Idenfication
+## Identification
 |Variable |Description|
 |:---:    |-----------|
 |subject     |Idenfication of the subject who generated the data for the signal variables based on the activity, taken from "subject_test.txt" and "subject_train.txt".|
